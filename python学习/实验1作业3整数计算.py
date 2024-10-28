@@ -1,0 +1,10 @@
+num1 = int(input())
+num2 = int(input())
+r1 = num1 + num2
+r2 = num1 - num2
+r3 = num1 * num2
+r4 = num1 / num2
+print(f"{num1} + {num2} = {r1}")
+print(f"{num1} - {num2} = {r2}")
+print(f"{num1} * {num2} = {r3}")
+print(f"{num1} / {num2} = {r4}")

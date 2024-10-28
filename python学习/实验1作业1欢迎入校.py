@@ -1,0 +1,7 @@
+name = str(input())
+print(f"|++++++++++++++++++++++|")
+print(f"|                      |")
+print(f"|   Welcome to WHUT    |")
+print(f"|                      |")
+print(f"|++++++++++++++++++++++|")
+print("欢迎您,{}同学！".format(name))
